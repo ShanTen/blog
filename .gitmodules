@@ -1,0 +1,4 @@
+[submodule "tenblog/public"]
+	path = tenblog/public
+	url = https://github.com/ShanTen/shanTen.gitub.io.git
+	branch = main

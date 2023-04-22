@@ -1,0 +1,4 @@
+baseURL = 'https://shanTen.github.io/'
+languageCode = 'en-in'
+title = "ShanTen's Site"
+theme = "risotto"
